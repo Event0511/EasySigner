@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#7BB7B8</color>
+    <color name="colorPrimaryDark">#8192D6</color>
+    <color name="colorAccent">#DCF7A1</color>
+
+    <color name="mainColor">#7BB7B8</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="lilac">#D4C1DB</color>
+    <color name="sand">#F4DECB</color>
+    <color name="grape">#94618E</color>
+    <color name="shell">#F8EEE7</color>
+    <color name="eggplant">#49274A</color>
+    <color name="lime">#88D317</color>
+    <color name="ice">#99D3DF</color>
+    <color name="fresh_water">#88BBD6</color>
+    <color name="plaster">#CDCDCD</color>
+    <color name="linen">#E9E9E9</color>
+    <color name="island">#F7B983</color>
+    <color name="red">#E03636</color>
+    <color name="primrose">#E9F01D</color>
+
+    <color name="yellow">#FFFF00</color>
+
+    <color name="silence_1">#81C2D6</color>
+    <color name="silence_2">#8192D6</color>
+    <color name="silence_3">#D9B3E6</color>
+    <color name="silence_4">#DCF7A1</color>
+    <color name="silence_5">#83FCD8</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
